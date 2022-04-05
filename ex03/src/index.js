@@ -7,9 +7,9 @@ function myEqualFunction(num) {
 }
 myEqualFunction(5==23); // false
 myEqualFunction(23==23); // true
-myEqualFunction("23"===23) // false
-myEqualFunction('23'===23) // false
-myEqualFunction("text"==23) // false
+myEqualFunction("23"===23); // false
+myEqualFunction('23'===23); // false
+myEqualFunction("text"==23); // false
     // Only change code above this line
     
     console.log(myEqualFunction(false));
