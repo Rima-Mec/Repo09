@@ -1,6 +1,6 @@
 // Only change code below this line
 function randomRangeNumber(minNumber, maxNumber) {
-    Math.floor(Mathrandom() *(max - min +1)) + min; 
+    Math.floor(Mathrandom() * ( maxNumber - minNumber +1)) + minNumber; 
     if(minNumber <= random) {
     return random;
     }
